@@ -7,23 +7,29 @@
 
 # Información 🚀
 
-- Colegio Santa Catalina Laboure.
-- Nombre: María Reneé Mejia Arroyo
-- Carrera: Bachillerato en ciencias y letras con orientación en computación
-- Curso: Lengua y literatura.
-- Maestra: Jericó Flor de María Castro.
+    - Colegio Santa Catalina Laboure.
+    - Nombre: María Reneé Mejia Arroyo
+    - Carrera: Bachillerato en ciencias y letras con orientación en computación
+    - Curso: Laboratorio 1
+    - Maestra: Jossue Emmanuel Fuentes.
 
 # Indice
 
-| 📚|  Indice  |
-| ------------ | ------------ |
-|  1. |  Portada  |
-|  2.  |  Anteportada |
-|  3. |  Indice  |
-| 4.  |  Objetivo |
-| 5 . |  Documentación  |
+  | 📚|  Indice  |
+  | ------------ | ------------ |
+  |  1. |  Portada  |
+  |  2.  |  Anteportada |
+  |  3. |  Indice  |
+  | 4.  |  Objetivo |
+  | 5 . |  Documentación  |
 
+# Objetivos 📝
 
+  ✒️Analazar las etiquetas utilizadas durante el periodo.
+  <br>
+  ✒️Analaiar las etiquetas utilizadas durante el periodo.
+  <br>
+  ✒️Analaiar las etiquetas utilizadas durante el periodo.
 
 
 https://maria4q.github.io/Responsive_Design-II/
