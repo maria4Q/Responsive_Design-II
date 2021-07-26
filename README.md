@@ -31,11 +31,11 @@
 
 # Objetivos 📝
 
-  ✒️Analazar las etiquetas utilizadas durante el periodo.
+  ✒️
   <br>
-  ✒️Analaiar las etiquetas utilizadas durante el periodo.
+  ✒️
   <br>
-  ✒️Analaiar las etiquetas utilizadas durante el periodo.
+  ✒️
 
 
 https://maria4q.github.io/Responsive_Design-II/
