@@ -26,8 +26,8 @@
   | 5.2 |  Banner |
   | 5.3 |  Glosario |
   | 5.4 |  Listado dirigido a textos|
-  | 5.5 |  Listadp dirigido a objetos |
-  | 5.5 |  Listadp de propiedades css |
+  | 5.5 |  Listado dirigido a objetos |
+  | 5.5 |  Listado de propiedades css |
 
 # Objetivos 📝
 
