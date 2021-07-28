@@ -24,10 +24,10 @@
   | 5 . |  Glosario 2021  |
   | 5.1 |  Home Page |
   | 5.2 |  Banner |
-  | 5.3 |  Glosario |
-  | 5.4 |  Listado dirigido a textos|
-  | 5.5 |  Listado dirigido a objetos |
-  | 5.5 |  Listado de propiedades css |
+  | 6.1 |  Glosario |
+  | 6.2 |  Listado dirigido a textos|
+  | 6.3 |  Listado dirigido a objetos |
+  | 6.4 |  Listado de propiedades css |
 
 # Objetivos 📝
 
