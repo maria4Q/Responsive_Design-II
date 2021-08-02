@@ -28,6 +28,7 @@
   | 6.2 |  Listado dirigido a textos|
   | 6.3 |  Listado dirigido a objetos |
   | 6.4 |  Listado de propiedades css |
+  
 
 # Objetivos 📝
 
@@ -39,7 +40,7 @@
   <br>
   📖Adquirir el habito de trabajar de forma ordena cada uno de los temas vistos en la materia.
    
-
+# Documentación 💻
 
 https://maria4q.github.io/Responsive_Design-II/ 
 
