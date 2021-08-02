@@ -31,11 +31,11 @@
 
 # Objetivos 📝
 
-  ✒️
+  ✒️Comprender cada uno de  los temas vistos durante este periodo
   <br>
-  ✒️
+  ✒️Trabajar e un tiempo estipulado
   <br>
-  ✒️
+  ✒️Adquirir el habito de trabajar de forma ordena cada uno de los temas vistos en la materia.
    
 
 
