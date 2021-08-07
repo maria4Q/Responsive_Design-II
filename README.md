@@ -32,8 +32,8 @@
   | 6.3 |  Listado dirigido a objetos |
   | 6.4|  Ejemplos |
   | 6.5 |  Listado de propiedades css |
-   | 6.6 |  Ejemplos |
-    | 6.7|  Objetivos futuros |
+  | 6.6 |  Ejemplos |
+  | 6.7|  Objetivos futuros |
 
 # OBJETIVOS 📝
 
@@ -47,7 +47,7 @@
    
  # DOCUMENTACIÓN 💻
 
-    https://maria4q.github.io/Responsive_Design-II/ 
+   https://maria4q.github.io/Responsive_Design-II/ 
 
  <a width="100%" href="https://imgur.com/nBejU81"><img src="https://i.imgur.com/nBejU81.png" title="source: imgur.com" /></a>
 
