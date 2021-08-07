@@ -33,7 +33,7 @@
   | 6.4|  Ejemplos |
   | 6.5 |  Listado de propiedades css |
    | 6.6 |  Ejemplos |
-  
+    | 6.7|  Objetivos futuros |
 
 # OBJETIVOS 📝
 
