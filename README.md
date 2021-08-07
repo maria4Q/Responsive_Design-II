@@ -11,7 +11,7 @@
     - Nombre: María Reneé Mejia Arroyo
     - Carrera: Bachillerato en ciencias y letras con orientación en computación
     - Curso: Laboratorio 1
-    - Maestra: Jossue Emmanuel Fuentes.
+    - Maestro: Jossue Emmanuel Fuentes.
 
 # ÍNDICE
 
